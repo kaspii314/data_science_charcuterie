@@ -24,6 +24,16 @@ This repo is intended for data science beginners who would like working examples
 
 ### Classification
 
+* Random Forest
+* Support Vector Machines (SVM)
+* Logistic Regression
+
 ### Regression
+
+* Oridnary Least Squares (OLS)
+* Ridge
+* Lasso
+* Partial Least Squares (PLS)
+* Principal Component Regression (PCR)
 
 #### By: Kate Stadelman
